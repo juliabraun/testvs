@@ -12,6 +12,7 @@
 
 # ignore julia visual studio files
 *.sln
+*.pyproj
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
