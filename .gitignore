@@ -13,6 +13,7 @@
 # ignore julia visual studio files
 *.sln
 *.pyproj
+git_cheat_sheet.txt
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
